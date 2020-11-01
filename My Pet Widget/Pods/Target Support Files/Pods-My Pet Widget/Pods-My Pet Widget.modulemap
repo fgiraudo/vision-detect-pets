@@ -1,0 +1,6 @@
+framework module Pods_My_Pet_Widget {
+  umbrella header "Pods-My Pet Widget-umbrella.h"
+
+  export *
+  module * { export * }
+}
